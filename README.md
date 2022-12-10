@@ -9,7 +9,9 @@ Most people don’t consider drawdown when managing their investments. Or if the
 Libraries used:
 
 numpy
+
 yfinance
+
 matplotlib
 
 ---
